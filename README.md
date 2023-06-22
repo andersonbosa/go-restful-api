@@ -1,6 +1,6 @@
 # go-restful-api
 
-* Checkout docs[docs/index.md](docs/index.md)
+* Checkout docs: [docs/index.md](docs/index.md)
 
 ## Getting started
 
